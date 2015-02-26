@@ -1,1 +1,1 @@
-Contains the source code for all the models. Each model should take in a featurized dataset and output a prediction file to the predictions folder.
+Contains the source code for all the models. Each model should take in a featurized dataset and output a prediction file to the predictions folder. In addition, also contains the source code for any featurization schemes applied on the raw data.
