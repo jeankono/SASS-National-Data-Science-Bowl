@@ -1,0 +1,2 @@
+Put all generated predictions here. Each prediction file should be in the format specified on the Kaggle competition website. The name of each file should include both the featurized dataset used and the model applied to the dataset. For reproducibility, set the random seed for each model to be 1 (if the seed is set otherwise, make note of it in the filename).
+This folder will also contain the scoring script used to score each prediction file. For each prediciton file, document its score here.

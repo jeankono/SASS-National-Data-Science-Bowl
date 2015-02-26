@@ -1,0 +1,1 @@
+Contains the source code for all the models. Each model should take in a featurized dataset and output a prediction file to the predictions folder.
